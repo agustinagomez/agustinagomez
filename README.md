@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Agustina Gomez</h1>
 <h3 align="center">A passionate full stack developer from Argentina</h3>
 
-<img src="./peter-griffin-nails.gif" alt="img" width="498" height="372" align="center"/>
+<img align="center" src="./peter-griffin-nails.gif" alt="img" width="498" height="372"/>
 
 - 🔭 I’m currently working on **my Portfolio**
 

@@ -1,26 +1,55 @@
-<h1 align="center">Hey there 👋, I'm Agustina Gomez</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+# Agustina Gomez
 
-<img align="center" src="./peter-griffin-nails.gif" alt="img" width="498" height="372"/>
+I build products from scratch. Two apps shipped end-to-end in startups defining architecture, handling payments, making product calls, and owning everything from first commit to production incidents.
 
-- 🔭 I’m currently working on **my Portfolio**
+I've worked with designers and PMs, and I've also been the designer and PM. Both work. I'm comfortable either way.
 
-- 🌱 I’m currently learning **TypeScript**
+My work covers B2B and B2C: seller dashboards with sales analytics on one side, consumer purchase flows with payment processing on the other.
 
-- 💬 Ask me about **react, redux and css**
+---
 
-- 📫 How to reach me **agustinagxmez@gmail.com**
+### Where I've built
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/agustina-gomez-4a327b243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="agustina-gomez-4a327b243" height="30" width="40" /></a>
-</p>
+**Pari Delivery** · Frontend Developer · 2024 – Present
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> </p>
+Alcohol delivery platform for Mexico. B2B and B2C. I built the web app from zero with one other engineer: there was no codebase, no tech lead, nothing.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=agustinagomez&show_icons=true&locale=en&layout=compact" alt="agustinagomez" /></p>
+I own the frontend end-to-end: architecture, components, deploys, feature flags, event tracking, incident response. I also scope and break down backend tasks because someone has to.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agustinagomez&show_icons=true&locale=en" alt="agustinagomez" /></p>
+Reduced page load time by **30%** and time to interactive by **25%**. Code splitting, lazy loading, hydration fixes, killed a bunch of render-blocking JS.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agustinagomez&" alt="agustinagomez" /></p>
+**Dooper** · Full Stack Developer · 2022 – 2024
+
+Wholesale commerce startup. Sellers managed inventory, tracked orders, and had dashboards with charts showing their sales data. B2B + B2C, payments on both sides.
+
+I joined as the only junior on a senior team. We had a PM and a designer at first — when they left, I took over: proposed UX changes, built Figma prototypes the CEO used in investor pitches, made product decisions on the fly. The pace was fast but we didn't cut corners.
+
+Built an AI support chatbot with OpenAI embeddings + Supabase vector search (RAG). Took Lighthouse from **60 to 85+**. Redesigned the signup flow and cut onboarding friction by **~40%**.
+
+---
+
+### What I work with
+
+**Core:** TypeScript, JavaScript, React, Next.js, Redux
+
+**Backend & data:** Node.js, Express, PostgreSQL, Supabase, Sequelize
+
+**AI & integrations:** OpenAI API, embeddings, vector databases (RAG), payment processing
+
+**Tooling:** Docker, Git, Figma, Claude Code, Cursor
+
+**Practices:** Feature flags, event tracking, technical SEO, WCAG accessibility, mobile-first design, incident response
+
+---
+
+### Beyond the code
+
+I scope features, define MVPs, prototype in Figma, and make tradeoffs between what we want and what we can ship this week. I've presented built demos for fundraising, and owned production systems where downtime means lost revenue.
+
+I think about what the user needs, then I figure out how to build it.
+
+---
+
+Available for new opportunities.
+
+[Portfolio](https://agustinagomez.dev) · [LinkedIn](https://linkedin.com/in/PLACEHOLDER) · agustinagxmez@gmail.com

@@ -52,4 +52,4 @@ I think about what the user needs, then I figure out how to build it.
 
 Available for new opportunities.
 
-[Portfolio](https://agustinagomez.dev) · [LinkedIn](https://linkedin.com/in/PLACEHOLDER) · agustinagxmez@gmail.com
+[LinkedIn](https://linkedin.com/in/agustinagomez-dev) · agustinagxmez@gmail.com
